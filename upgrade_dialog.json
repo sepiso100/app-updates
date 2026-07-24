@@ -1,9 +1,9 @@
 {
-  "latest_version": "2.0.0",
-  "latest_version_code": 1,
-  "release_notes": "Initial release",
+  "latest_version": "2.82.2",
+  "latest_version_code": 260592,
+  "release_notes": "Critical security and performance update.",
   "download_url": "https://t.me/tpxapkupdates",
   "release_page_url": "https://github.com/sepiso100/app-updates/releases/latest",
-  "force_update": false,
-  "min_supported_version_code": 1
+  "force_update": true,
+  "min_supported_version_code": 260592
 }
